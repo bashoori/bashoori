@@ -1,6 +1,10 @@
 ### Hi there 👋 , I'm Bita  , Welcome to my GitHub profile!
 
 
+- 🌱 I'm a passionate Data Science student, 
+- 🔭 I’m currently learning Python and R
+
+- 📫 How to reach me: Datacoder.ba@gmail.com
 
 
 ![Coronavirus Spreading…](https://github.com/DataCoder2020/repo/blob/master/coronavirus-simulation-katapult%20(1).gif)
