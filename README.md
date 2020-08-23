@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Bita  , Welcome to my GitHub profile!
+<h1 align="left">Hi 👋, I'm Bita , Welcome to my GitHub profile!</h1>
 ---
 
 - 🌱 I’m currently learning **Python and R**
@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **Datacoder.ba@gmail.com**
 
+
+<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left"/></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
 
