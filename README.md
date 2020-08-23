@@ -8,7 +8,7 @@
 - 📫 How to reach me **Datacoder.ba@gmail.com**
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bitaashoori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bitaashoori/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/bitaashoori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bitaashoori/" height="30" width="30" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/bitaashoori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/bitaashoori" height="30" width="30" /></a>
 </p>
 
