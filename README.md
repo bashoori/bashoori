@@ -1,13 +1,16 @@
 ### Hi there 👋 , I'm Bita  , Welcome to my GitHub profile!
 
-![](https://github.com/DataCoder2020/repo/blob/master/coronavirus-simulation-katapult.gif)
 
 
 
+![Coronavirus Spreading…](https://github.com/DataCoder2020/repo/blob/master/coronavirus-simulation-katapult%20(1).gif)
 
+
+
+![](https://komarev.com/ghpvc/?username=DataCoder2020)
 <!--
 **DataCoder2020/DataCoder2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://komarev.com/ghpvc/?username=DataCoder2020)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
