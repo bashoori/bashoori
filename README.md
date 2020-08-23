@@ -1,14 +1,16 @@
 <h1 align="left">Hi 👋, I'm Bita , Welcome to my GitHub profile!</h1>
 
+
+![](https://komarev.com/ghpvc/?username=DataCoder2020)
+
 - 🌱 I’m currently learning **Python and R**
 - 👨‍💻 All of my projects are available at [https://github.com/DataCoder2020?tab=repositories](here)
 - 📫 How to reach me **Datacoder.ba@gmail.com**
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bitaashoori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bitaashoori" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/bitaashoori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/learn/overview" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bitaashoori/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bitaashoori" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/bitaashoori" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/learn/overview" height="30" width="30" /></a>
 </p>
-
 
 
 
@@ -19,9 +21,8 @@
 [![Bita's github stats](https://github-readme-stats.vercel.app/api?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datacoder2020&show_icons=true" alt="datacoder2020" /></p>
 
-
-![](https://komarev.com/ghpvc/?username=DataCoder2020)
 
 ---
 
