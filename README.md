@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **Datacoder.ba@gmail.com**
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left"/></p>
+
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bitaashoori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bitaashoori/" height="30" width="30" /></a>
@@ -17,6 +17,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
+
+<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left"/></p>
 
 [![Bita's github stats](https://github-readme-stats.vercel.app/api?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
 
