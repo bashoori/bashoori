@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Bita , Welcome to my GitHub profile!</h1>
+<h1 align="left">Hi 👋, I'm Bita!</h1>
 
 
 ![](https://komarev.com/ghpvc/?username=DataCoder2020)
