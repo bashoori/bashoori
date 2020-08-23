@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DataCoder2020)
 
-- 🌱 I’m currently Data Science Career Track Student and learning **Python, Panda and R**
+- 🌱 I’m currently Data Science Student at Springboard and learning **Python, Panda and R**
 - 👨‍💻 All of my projects are available at [here](https://github.com/DataCoder2020?tab=repositories)
 - 📫 How to reach me **Datacoder.ba@gmail.com**
 
