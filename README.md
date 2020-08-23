@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=DataCoder2020)
 
 - 🌱 I’m currently learning **Python and R**
-- 👨‍💻 All of my projects are available at [https://github.com/DataCoder2020?tab=repositories](here)
+- 👨‍💻 All of my projects are available at [https://github.com/DataCoder2020?tab=repositories](https://github.com/DataCoder2020?tab=repositories)
 - 📫 How to reach me **Datacoder.ba@gmail.com**
 
 <p align="center">
