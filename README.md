@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 , I'm Bita  , Welcome to my GitHub profile!
+
+
+
+![](https://cdn.howmuch.net/articles/washingtonpost-c171.gif)
+
+
+
+![](https://komarev.com/ghpvc/?username=DataCoder2020)
+
 
 <!--
 **DataCoder2020/DataCoder2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
