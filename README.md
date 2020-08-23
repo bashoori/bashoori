@@ -5,6 +5,11 @@
 - 🌱 I'm a Data Science student, 
 - 🔭 I’m currently learning Python and R
 - 📫 How to reach me Datacoder.ba@gmail.com and my Linkedin: https://www.linkedin.com/in/bitaashoori/
+- 🌱 I’m currently learning **Python and R**
+
+- 👨‍💻 All of my projects are available at [https://github.com/DataCoder2020?tab=repositories](https://github.com/DataCoder2020?tab=repositories)
+
+- 📫 How to reach me **Datacoder.ba@gmail.com**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
