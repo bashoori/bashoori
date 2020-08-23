@@ -5,10 +5,12 @@
 - 🔭 I’m currently learning Python and R
 - 📫 How to reach me: Datacoder.ba@gmail.com and my Linkedin: https://www.linkedin.com/in/bitaashoori/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
+
 [![Bita's github stats](https://github-readme-stats.vercel.app/api?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
 
-
 ![](https://komarev.com/ghpvc/?username=DataCoder2020)
+
 ---
 ## Coronavirus Spreading…
 
