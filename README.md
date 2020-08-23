@@ -5,6 +5,7 @@
 - 🔭 I’m currently learning Python and R
 - 📫 How to reach me: Datacoder.ba@gmail.com
 
+![](https://komarev.com/ghpvc/?username=DataCoder2020)
 ---
 
 
