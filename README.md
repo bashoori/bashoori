@@ -1,7 +1,5 @@
 ### Hi there 👋 , I'm Bita  , Welcome to my GitHub profile!
 
-![image](https://cdn.vox-cdn.com/thumbor/yl3i2WXTsbhOyoJbgCZwyWaPO98=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19832101/Covid_19_Transmission_graphic_01.gif)
-
 
 
 ![](https://komarev.com/ghpvc/?username=DataCoder2020)
