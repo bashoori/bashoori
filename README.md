@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Bita , Welcome to my GitHub profile!</h1>
----
 
 - 🌱 I’m currently learning **Python and R**
 
