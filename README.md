@@ -3,7 +3,7 @@
 
 - 🌱 I'm a Data Science student, 
 - 🔭 I’m currently learning Python and R
-- 📫 How to reach me: Datacoder.ba@gmail.com
+- 📫 How to reach me: Datacoder.ba@gmail.com and my Linkedin: https://www.linkedin.com/in/bitaashoori/
 
 ![](https://komarev.com/ghpvc/?username=DataCoder2020)
 ---
