@@ -15,8 +15,6 @@
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left"/></p>
 
-[![Bita's github stats](https://github-readme-stats.vercel.app/api?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datacoder2020&show_icons=true" alt="datacoder2020" /></p>
 
