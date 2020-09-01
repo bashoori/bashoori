@@ -35,7 +35,7 @@ src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original
 
 
 # Why is it so important to avoid social contact ? 
-![Why is it so important to avoid social contact ? ](https://corona.katapult-magazin.de/)
+
 On the left, each person has frequent direct contact with others. Within a very short time, everyone is infected and hospitals are quickly overburdened. The black line in the graph represents hospital capacity.
 
 On the right, only 25 out of 200 people move freely. All others self-isolate at home. It takes much longer for everyone to get infected. Hospitals can treat all patients because they don’t arrive all at once.
