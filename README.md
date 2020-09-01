@@ -20,7 +20,7 @@ src="https://github.com/DataCoder2020/repo/blob/master/ssrs.jpg" alt="SSRS" / > 
 src="https://github.com/DataCoder2020/repo/blob/master/ssis.jpg" alt="SSIS" / > <img 
 src="https://github.com/DataCoder2020/repo/blob/master/ssas.jpg" alt="SSAS" / > <img       
 src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power_BI" / > <img     
-src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img                                                                                     
+src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img                                           src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img                                           
 src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left"/></p>
 
 
