@@ -15,8 +15,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
 
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img 
-src="https://github.com/DataCoder2020/repo/blob/master/ssrs.jpg" alt="SSRS" / > <img 
+
+<p align="left"><img src="https://github.com/DataCoder2020/repo/blob/master/ssrs.jpg" alt="SSRS" / > <img 
 src="https://github.com/DataCoder2020/repo/blob/master/ssis.jpg" alt="SSIS" / > <img 
 src="https://github.com/DataCoder2020/repo/blob/master/ssas.jpg" alt="SSAS" / > <img       
 src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power_BI" / > <img 
