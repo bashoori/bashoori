@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Data Science Student at Springboard and learning **Python, Panda and R**
 - 👨‍💻 All of my projects are available at [here](https://github.com/DataCoder2020?tab=repositories)
-- 📫 How to reach me **Datacoder.ba@gmail.com**
+- 📫 How to reach me : **Datacoder.ba@gmail.com**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bitaashoori/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/linkedin.JPG" alt="https://www.linkedin.com/in/bitaashoori/" height="30" width="30" /></a>
