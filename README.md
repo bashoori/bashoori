@@ -10,8 +10,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bitaashoori/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/linkedin.JPG" alt="https://www.linkedin.com/in/bitaashoori/" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/learn/overview" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/kaggle.JPG" alt="https://www.kaggle.com/bitaashoori" height="30" width="30" /></a>
- <a href="https://www.hackerrank.com/datacoder_ba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/HK.JPG" alt="https://www.hackerrank.com/datacoder_ba" height="30" width="30" /></a> 
-  <a href="https://www.datacamp.com/profile/datacoderba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/datacamp.JPG" alt="https://www.datacamp.com/profile/datacoderba" height="30" width="30" /></a> 
+<a href="https://www.hackerrank.com/datacoder_ba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/HK.JPG" alt="https://www.hackerrank.com/datacoder_ba" height="30" width="30" /></a> 
+<a href="https://www.datacamp.com/profile/datacoderba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/datacamp.JPG" alt="https://www.datacamp.com/profile/datacoderba" height="30" width="30" /></a> 
 </p>
 
 
@@ -22,7 +22,8 @@
 <a href="https://github.com/DataCoder2020/Pandas/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="https://github.com/DataCoder2020/Pandas/" height="30" width="30" /></a>
 <a href="https://github.com/DataCoder2020/SQL/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="https://github.com/DataCoder2020/SQL/" height="40" width="40" /></a>
 <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power_BI" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
- 
+<a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
+  
 
 <p align="left"><img src="https://github.com/DataCoder2020/repo/blob/master/ssrs.jpg" alt="SSRS" / > <img 
 src="https://github.com/DataCoder2020/repo/blob/master/ssis.jpg" alt="SSIS" / > <img 
