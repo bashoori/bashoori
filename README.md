@@ -24,7 +24,7 @@ src="https://github.com/DataCoder2020/repo/blob/master/ssas.jpg" alt="SSAS" / > 
 src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img      
 src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power_BI" / > <img    
 src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" / > <img                                                                                      
-src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img                                           alt="https://github.com/DataCoder2020/Python.git" height="30" width="30" /></a>
+src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img                                           
 align="left"/></p>
 
 
