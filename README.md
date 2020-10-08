@@ -14,6 +14,10 @@
   <a href="https://www.datacamp.com/profile/datacoderba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/datacamp.JPG" alt="https://www.datacamp.com/profile/datacoderba" height="30" width="30" /></a> 
 </p>
 
+<p align="left">
+<a href="https://github.com/DataCoder2020/Python/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="https://github.com/DataCoder2020/Python/" height="30" width="30" /></a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
 
 
@@ -26,9 +30,6 @@ src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power_
 src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" / > <img                                                                                      
 src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img                                           
 align="left"/></p>
-
-<p align="left">
-<a href="https://github.com/DataCoder2020/Python/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="https://github.com/DataCoder2020/Python/" height="30" width="30" /></a>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datacoder2020&show_icons=true" alt="datacoder2020" /></p>
