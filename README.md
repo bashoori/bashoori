@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Bita!</h1>
 
 
-- 🌱 I’m currently Data Science Student at Springboard and learning **Python, Panda and R**
+- 🌱 I’m currently Data Science Student at Springboard ,learning **Python, Panda and R**
 - 👨‍💻 All of my projects are available at [here](https://github.com/DataCoder2020?tab=repositories)
 - 📫 How to reach me : **Datacoder.ba@gmail.com**
 
