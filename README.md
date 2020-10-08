@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://github.com/DataCoder2020/Python/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="https://github.com/DataCoder2020/Python/" height="30" width="30" /></a>
 <a href="https://github.com/DataCoder2020/Pandas/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="https://github.com/DataCoder2020/Pandas/" height="30" width="30" /></a>
-<a href="https://github.com/DataCoder2020/SQL/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/sql%20serverJPG.JPG" alt="https://github.com/DataCoder2020/SQL/" height="30" width="30" /></a>
+<a href="https://github.com/DataCoder2020/SQL/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/sql%20server.JPG" alt="https://github.com/DataCoder2020/SQL/" height="30" width="30" /></a>
 
 <p align="left"><img src="https://github.com/DataCoder2020/repo/blob/master/ssrs.jpg" alt="SSRS" / > <img 
 src="https://github.com/DataCoder2020/repo/blob/master/ssis.jpg" alt="SSIS" / > <img 
