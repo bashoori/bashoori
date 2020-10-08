@@ -14,13 +14,11 @@
   <a href="https://www.datacamp.com/profile/datacoderba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/datacamp.JPG" alt="https://www.datacamp.com/profile/datacoderba" height="30" width="30" /></a> 
 </p>
 
-<p align="left">
-<a href="https://github.com/DataCoder2020/Python/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="https://github.com/DataCoder2020/Python/" height="30" width="30" /></a>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
 
-
+<p align="left">
+<a href="https://github.com/DataCoder2020/Python/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="https://github.com/DataCoder2020/Python/" height="30" width="30" /></a>
 
 <p align="left"><img src="https://github.com/DataCoder2020/repo/blob/master/ssrs.jpg" alt="SSRS" / > <img 
 src="https://github.com/DataCoder2020/repo/blob/master/ssis.jpg" alt="SSIS" / > <img 
