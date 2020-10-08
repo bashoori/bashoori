@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Bita!</h1>
 
 
-![](https://komarev.com/ghpvc/?username=DataCoder2020)
-
 - 🌱 I’m currently Data Science Student at Springboard and learning **Python, Panda and R**
 - 👨‍💻 All of my projects are available at [here](https://github.com/DataCoder2020?tab=repositories)
 - 📫 How to reach me : **Datacoder.ba@gmail.com**
@@ -28,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datacoder2020&show_icons=true" alt="datacoder2020" /></p>
 
-
+![](https://komarev.com/ghpvc/?username=DataCoder2020)
 ---
 
 ## Coronavirus Spreading…
