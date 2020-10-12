@@ -21,6 +21,7 @@
 <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power_BI" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
 <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
 
