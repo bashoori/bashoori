@@ -22,7 +22,7 @@
 <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020&layout=compact)](https://github.com/DataCoder2020/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datacoder2020&show_icons=true" alt="datacoder2020" /></p>
 
