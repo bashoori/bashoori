@@ -13,8 +13,6 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
-
 
 <p align="left">
 <a href="https://github.com/DataCoder2020/Springboard-Projects/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="https://github.com/DataCoder2020/Springboard-Projects/" height="30" width="30" /></a>
@@ -24,6 +22,7 @@
 <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020)](https://github.com/DataCoder2020/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datacoder2020&show_icons=true" alt="datacoder2020" /></p>
 
