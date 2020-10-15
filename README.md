@@ -2,7 +2,13 @@
 
 
 - 🌱 I’m currently Data Science Student at Springboard ,learning **Python, Panda and R**
-- 👨‍💻 All of my projects are available at [here](https://github.com/DataCoder2020?tab=repositories)
+- 👨‍💻 All of my projects are available at 
+
+<a href="https://github.com/DataCoder2020/Springboard-Projects/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="https://github.com/DataCoder2020/Springboard-Projects/" height="30" width="30" /></a>
+<a href="https://github.com/DataCoder2020/Springboard-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="https://github.com/DataCoder2020/Pandas/" height="30" width="30" /></a>
+<a href="https://github.com/DataCoder2020/SQL/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="https://github.com/DataCoder2020/SQL/" height="40" width="40" /></a>
+<a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power_BI" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
+<a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
 - 📫 How to reach me : **Datacoder.ba@gmail.com**
 
 <p align="left">
