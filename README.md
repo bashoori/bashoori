@@ -16,9 +16,6 @@
 <a href="https://www.hackerrank.com/datacoder_ba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/HK.JPG" alt="https://www.hackerrank.com/datacoder_ba" height="30" width="30" /></a> 
 <a href="https://www.datacamp.com/profile/datacoderba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/datacamp.JPG" alt="https://www.datacamp.com/profile/datacoderba" height="30" width="30" /></a> 
 
-##<a href="Datacoder.ba@gmail.com/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/gmail.JPG" alt="Datacoder.ba@gmail.com" height="30" width="30" /></a>
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020&layout=compact)](https://github.com/DataCoder2020/github-readme-stats)
 
