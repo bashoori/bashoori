@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Bita!</h1>
 
 
-- 🌱 I’m currently Data Science Student at Springboard ,learning **Python, Panda and R**
+- 🌱 Currently, I am enrolled in Data Science Certification Program which is equipping me with the technical proficiency in and experience working with full data science cycle , designing and building predictive models ,mastering skills in **Python, Pandas , Machine Learning.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/DataCoder2020/Springboard-Projects/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="https://github.com/DataCoder2020/Springboard-Projects/" height="30" width="30" /></a>
 <a href="https://github.com/DataCoder2020/Springboard-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="https://github.com/DataCoder2020/Pandas/" height="30" width="30" /></a>
 <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power_BI" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
