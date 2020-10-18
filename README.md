@@ -22,9 +22,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020&layout=compact)](https://github.com/DataCoder2020/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datacoder2020&show_icons=true" alt="datacoder2020" /></p>
 
 ![](https://komarev.com/ghpvc/?username=DataCoder2020)
+
 ---
 
 ## Coronavirus Spreading…
