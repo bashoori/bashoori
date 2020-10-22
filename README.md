@@ -19,17 +19,15 @@
 <a href="https://www.datacamp.com/profile/datacoderba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/datacamp.JPG" alt="https://www.datacamp.com/profile/datacoderba" height="30" width="30" /></a> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCoder2020&layout=compact)](https://github.com/DataCoder2020/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashoori&layout=compact)](https://github.com/bashoori/github-readme-stats)
 
-
-
-![](https://komarev.com/ghpvc/?username=DataCoder2020)
+![](https://komarev.com/ghpvc/?username=bashoori)
 
 ---
 
 ## Coronavirus Spreading…
 
-![Coronavirus Spreading…](https://github.com/DataCoder2020/repo/blob/master/coronavirus-simulation-katapult%20(1).gif)
+![Coronavirus Spreading…](https://github.com/bashoori/repo/blob/master/coronavirus-simulation-katapult%20(1).gif)
 
 
 ## Why is it so important to avoid social contact ? 
