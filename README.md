@@ -12,9 +12,7 @@
 <a href="https://github.com/DataCoder2020/SQL/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="https://github.com/DataCoder2020/SQL/" height="40" width="40" /></a>
 <a href="https://github.com/DataCoder2020/R/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/R1.JPG" alt="https://github.com/DataCoder2020/R/" height="40" width="40" /></a>
 
-- How to reach me : [https://github.com/DataCoder2020/repo/blob/master/gmail.JPG](Datacoder.ba@gmail.com)
-
-<a href=Datacoder.ba@gmail.com target=Datacoder.ba@gmail.com><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/gmail.JPG" /></a>
+- How to reach me : <a href=Datacoder.ba@gmail.com target=Datacoder.ba@gmail.com><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/gmail.JPG" /></a>
 <a href="https://www.linkedin.com/in/bitaashoori/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/linkedin.JPG" alt="https://www.linkedin.com/in/bitaashoori/" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/learn/overview" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/kaggle.JPG" alt="https://www.kaggle.com/bitaashoori" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/datacoder_ba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/HK.JPG" alt="https://www.hackerrank.com/datacoder_ba" height="30" width="30" /></a> 
