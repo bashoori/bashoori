@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Bita!</h1>
 
 
-Currently, I am enrolled in Data Science Certification Program which is equipping me with the technical proficiency in and experience working with full data science cycle , designing and building predictive models ,mastering skills in **Python, Pandas , Machine Learning.**
+Currently, I am enrolled in Data Science Certification Program which is equipping me with the technical proficiency in and experience working with full data science cycle , designing and building predictive models ,mastering skills in **SQL, Python, Pandas , Machine Learning.**
 
  For the past 3 years, I worked as a **Business Intelligence Developer/ Database Developer**, participating in developing and maintaining BI solutions, including Extract, Transform, Load (ETL), reports, dashboards, and analytical solutions to support the effective use of data.
 - Some of my projects are available at <a href="https://github.com/DataCoder2020/Springboard-Projects/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="https://github.com/DataCoder2020/Springboard-Projects/" height="30" width="30" /></a>
