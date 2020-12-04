@@ -22,7 +22,7 @@ Currently, I am enrolled in Data Science Certification Program which is equippin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashoori&layout=compact)](https://github.com/bashoori/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=bashoori)
-![Visitor Count](https://profile-counter.glitch.me/bashoori/count.svg)
+
 
 ---
 
