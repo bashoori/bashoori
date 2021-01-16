@@ -10,7 +10,6 @@ Currently, I am enrolled in Data Science Certification Program which is equippin
 <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power_BI" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
 <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"/></a>
 <a href="https://github.com/DataCoder2020/SQL/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/BI.JPG" alt="BI" alt="https://github.com/DataCoder2020/SQL/"/></a>
-<a href="https://github.com/DataCoder2020/SQL/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="https://github.com/DataCoder2020/SQL/" height="40" width="40" /></a>
 <a href="https://github.com/DataCoder2020/R/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/R1.JPG" alt="https://github.com/DataCoder2020/R/" height="40" width="40" /></a>
 
 - How to reach me :<a href=Datacoder.ba@gmail.com target=Datacoder.ba@gmail.com><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/gmail.JPG" /></a>
