@@ -12,8 +12,7 @@ Currently, I am enrolled in Data Science Certification Program which is equippin
 <a href="https://github.com/DataCoder2020/SQL/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/BI.JPG" alt="BI" alt="https://github.com/DataCoder2020/SQL/"/></a>
 <a href="https://github.com/DataCoder2020/R/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/R1.JPG" alt="https://github.com/DataCoder2020/R/" height="40" width="40" /></a>
 
-- How to reach me :<a href=Datacoder.ba@gmail.com target=Datacoder.ba@gmail.com><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/gmail.JPG" /></a>
-<a href="https://www.linkedin.com/in/bitaashoori/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/linkedin.JPG" alt="https://www.linkedin.com/in/bitaashoori/" height="30" width="30" /></a>
+- How to reach me :<a href="https://www.linkedin.com/in/bitaashoori/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/linkedin.JPG" alt="https://www.linkedin.com/in/bitaashoori/" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/learn/overview" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/kaggle.JPG" alt="https://www.kaggle.com/bitaashoori" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/datacoder_ba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/HK.JPG" alt="https://www.hackerrank.com/datacoder_ba" height="30" width="30" /></a> 
 <a href="https://www.datacamp.com/profile/datacoderba" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/datacamp.JPG" alt="https://www.datacamp.com/profile/datacoderba" height="30" width="30" /></a> 
