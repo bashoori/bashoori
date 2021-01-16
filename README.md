@@ -5,7 +5,7 @@ Currently, I am enrolled in Data Science Certification Program which is equippin
 
  For the past 3 years, I worked as a **Business Intelligence Developer/ Database Developer**, participating in developing and maintaining BI solutions, including Extract, Transform, Load (ETL), reports, dashboards, and analytical solutions to support the effective use of data.
 - Some of my works are available at 
-<a href="https://github.com/bashoori/Data-Science-Projects" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="https://github.com/bashoori/Data-Science-Projects" height="30" width="30" /></a>
+<a href="https://github.com/bashoori/Data-Science-Projects" target="blank"><img align="center" src="https://github.com/bashoori/repo/blob/master/python.JPG" alt="https://github.com/bashoori/Data-Science-Projects" height="30" width="30" /></a>
 <a href="https://github.com/DataCoder2020/Data-Science-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="https://github.com/DataCoder2020/Pandas/" height="30" width="30" /></a>
 <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power_BI" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
 <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"/></a>
