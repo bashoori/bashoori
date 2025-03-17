@@ -19,7 +19,7 @@ Data Engineer with 4+ years of experience designing scalable data pipelines, ETL
 • Collaborated with cross-functional teams to enable data-driven decision-making
 
 💡 Passionate about data-driven solutions, automation, and AI-powered analytics.
-📩 Let’s connect to discuss data engineering, cloud solutions, and innovation!
+
 - Some of my works are available at 
 <a href="https://github.com/bashoori/Data-Science-Projects" target="blank"><img align="center" src="https://github.com/bashoori/repo/blob/master/p1.JPG" alt="https://github.com/bashoori/Data-Science-Projects" height="30" width="30" /></a>
 <a href="https://github.com/DataCoder2020/Data-Science-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="https://github.com/DataCoder2020/Pandas/" height="30" width="30" /></a>
