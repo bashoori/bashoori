@@ -1,9 +1,25 @@
 <h1 align="left">Hi 👋, I'm Bita!</h1>
 
 
-Currently, I am enrolled in Data Science Certification Program which is equipping me with the technical proficiency in and experience working with full data science cycle , designing and building predictive models ,mastering skills in **Python, Pandas , Machine Learning.**
+Data Engineer with 4+ years of experience designing scalable data pipelines, ETL workflows, and cloud-based analytics solutions across healthcare, retail, and services industries.
 
- For the past 3 years, I worked as a **Business Intelligence Developer/ Database Developer**, participating in developing and maintaining BI solutions, including Extract, Transform, Load (ETL), reports, dashboards, and analytical solutions to support the effective use of data.
+🔹 Expertise in:
+
+✅ Cloud & Big Data: AWS (Redshift, S3, Glue), Google BigQuery, Apache Airflow
+✅ Programming: Python, SQL, Scala (familiar), JavaScript/JSON (familiar)
+✅ Data Engineering Tools: Databricks, Spark, Apache Airflow, Fivetran, SSIS, Denodo
+✅ Business Intelligence & Analytics: Power BI, Google Analytics, Google Ads
+✅ ETL & Automation: Designed workflows that improved data processing efficiency by 30%
+
+🔹 Key Highlights:
+
+• Built & optimized high-performance ETL pipelines for structured & unstructured data
+• Integrated & automated data workflows, ensuring 99.9% data accuracy
+• Bridged data & business strategy by applying analytics to marketing & growth optimization
+• Collaborated with cross-functional teams to enable data-driven decision-making
+
+💡 Passionate about data-driven solutions, automation, and AI-powered analytics.
+📩 Let’s connect to discuss data engineering, cloud solutions, and innovation!
 - Some of my works are available at 
 <a href="https://github.com/bashoori/Data-Science-Projects" target="blank"><img align="center" src="https://github.com/bashoori/repo/blob/master/p1.JPG" alt="https://github.com/bashoori/Data-Science-Projects" height="30" width="30" /></a>
 <a href="https://github.com/DataCoder2020/Data-Science-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="https://github.com/DataCoder2020/Pandas/" height="30" width="30" /></a>
