@@ -37,8 +37,8 @@ With **4+ years of experience** designing **scalable data pipelines**, **ETL wor
 
 ## 📬 **How to Reach Me**
 🔗 **LinkedIn**: [Bita Ashoori](https://www.linkedin.com/in/bitaashoori/)  
-> 📊 **Kaggle**: [Bita Ashoori](https://www.kaggle.com/bitaashoori)  
-> 💻 **HackerRank**: [DataCoder BA](https://www.hackerrank.com/datacoder_ba)  
+<!--  📊 **Kaggle**: [Bita Ashoori](https://www.kaggle.com/bitaashoori)  -->
+<!--  💻 **HackerRank**: [DataCoder BA](https://www.hackerrank.com/datacoder_ba)  -->
 
 ---
 
