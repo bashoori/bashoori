@@ -6,10 +6,15 @@ Data Engineer with 4+ years of experience designing scalable data pipelines, ETL
 🔹 Expertise in:
 
 ✅ Cloud & Big Data: AWS (Redshift, S3, Glue), Google BigQuery, Apache Airflow
+
 ✅ Programming: Python, SQL, Scala (familiar), JavaScript/JSON (familiar)
+
 ✅ Data Engineering Tools: Databricks, Spark, Apache Airflow, Fivetran, SSIS, Denodo
+
 ✅ Business Intelligence & Analytics: Power BI, Google Analytics, Google Ads
+
 ✅ ETL & Automation: Designed workflows that improved data processing efficiency by 30%
+
 
 🔹 Key Highlights:
 
