@@ -4,7 +4,6 @@
 
 With **4+ years of experience** designing **scalable data pipelines**, **ETL workflows**, and **cloud-based analytics solutions**, I have worked across **healthcare, retail, and services industries**. Passionate about **data-driven solutions, automation, and AI-powered analytics**.
 
----
 
 ## 🔹 **Expertise**
 ✅ **Cloud & Big Data**: AWS (Redshift, S3, Glue), Google BigQuery, Apache Airflow  
@@ -13,14 +12,12 @@ With **4+ years of experience** designing **scalable data pipelines**, **ETL wor
 ✅ **Business Intelligence & Analytics**: Power BI, Google Analytics, Google Ads  
 ✅ **ETL & Automation**: Designed workflows that improved data processing efficiency by **30%**  
 
----
 
 ## 🔹 **Key Highlights**
 - 🏗 **Built & optimized high-performance ETL pipelines** for structured & unstructured data  
 - ⚙️ **Integrated & automated data workflows**, ensuring **99.9% data accuracy**  
 - 📊 **Applied analytics to marketing & growth optimization**, bridging data & business strategy  
 - 🤝 **Collaborated with cross-functional teams** to enable data-driven decision-making  
-
 
 
 ## 📂 **Projects & Repositories**
@@ -48,19 +45,16 @@ With **4+ years of experience** designing **scalable data pipelines**, **ETL wor
   </a>
 </p>
 
----
 
 ## 📬 **How to Reach Me**
 🔗 **LinkedIn**: [Bita Ashoori](https://www.linkedin.com/in/bitaashoori/)  
 <!--  📊 **Kaggle**: [Bita Ashoori](https://www.kaggle.com/bitaashoori)  -->
 <!--  💻 **HackerRank**: [DataCoder BA](https://www.hackerrank.com/datacoder_ba)  -->
 
----
 
 ## 📊 **GitHub Stats**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashoori&layout=compact)](https://github.com/bashoori/github-readme-stats)  
 ![](https://komarev.com/ghpvc/?username=bashoori)
 
----
 
 🔥 *I love connecting with like-minded professionals! Feel free to reach out or collaborate on exciting projects!*  
