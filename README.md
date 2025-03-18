@@ -26,7 +26,7 @@ With **4+ years of experience** designing **scalable data pipelines**, **ETL wor
 
 <p align="left">
   <a href="https://github.com/bashoori/Data-Engineering-Project" target="_blank">
-    <img src="https://github.com/bashoori/repo/blob/master/data_engineer_icon.png" alt="Data Engineering Project" height="30" width="30"/>
+    <img src="https://github.com/bashoori/repo/blob/master/data_engineer_icon.png" alt="Data Engineering Project" height="35" width="35"/>
   </a>
   <a href="https://github.com/bashoori/Data-Science-Projects" target="_blank">
     <img src="https://github.com/bashoori/repo/blob/master/p1.JPG" alt="Data Science Projects" height="30" width="30"/>
