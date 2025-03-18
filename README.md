@@ -25,51 +25,26 @@ With **4+ years of experience** designing **scalable data pipelines**, **ETL wor
 💡 **Explore some of my work:**
 
 <p align="left">
-  <a href="https://github.com/bashoori/Data-Science-Projects" target="_blank">
-    <img src="https://github.com/bashoori/repo/blob/master/p1.JPG" alt="Data Science Projects" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/Data-Science-Projects/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="Pandas Projects" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power BI" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/SQL/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/BI.JPG" alt="SQL/BI" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/R/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/R1.JPG" alt="R Projects" height="30" width="30"/>
-  </a>
-</p>
-
-
-
-💡 **Explore some of my work:**
-
-<p align="left">
-  <a href="https://github.com/bashoori/Data-Science-Projects" target="_blank">
-    <img src="https://github.com/bashoori/repo/blob/master/p1.JPG" alt="Data Science Projects" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/Data-Science-Projects/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="Pandas Projects" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power BI" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/SQL/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/BI.JPG" alt="SQL/BI" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/R/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/R1.JPG" alt="R Projects" height="30" width="30"/>
-  </a>
   <a href="https://github.com/bashoori/Data-Engineering-Project" target="_blank">
     <img src="https://github.com/bashoori/repo/blob/master/data_engineer_icon.png" alt="Data Engineering Project" height="30" width="30"/>
+  </a>
+  <a href="https://github.com/bashoori/Data-Science-Projects" target="_blank">
+    <img src="https://github.com/bashoori/repo/blob/master/p1.JPG" alt="Data Science Projects" height="30" width="30"/>
+  </a>
+  <a href="https://github.com/DataCoder2020/Data-Science-Projects/" target="_blank">
+    <img src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="Pandas Projects" height="30" width="30"/>
+  </a>
+  <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="_blank">
+    <img src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power BI" height="30" width="30"/>
+  </a>
+  <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="_blank">
+    <img src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" height="30" width="30"/>
+  </a>
+  <a href="https://github.com/DataCoder2020/SQL/" target="_blank">
+    <img src="https://github.com/DataCoder2020/repo/blob/master/BI.JPG" alt="SQL/BI" height="30" width="30"/>
+  </a>
+  <a href="https://github.com/DataCoder2020/R/" target="_blank">
+    <img src="https://github.com/DataCoder2020/repo/blob/master/R1.JPG" alt="R Projects" height="30" width="30"/>
   </a>
 </p>
 
