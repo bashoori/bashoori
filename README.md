@@ -21,17 +21,9 @@ With **4+ years of experience** designing **scalable data pipelines**, **ETL wor
 - 📊 **Applied analytics to marketing & growth optimization**, bridging data & business strategy  
 - 🤝 **Collaborated with cross-functional teams** to enable data-driven decision-making  
 
----
+
 
 ## 📂 **Projects & Repositories**
-💡 Explore some of my work:
-
-<a href="https://github.com/bashoori/Data-Science-Projects" target="blank"><img align="center" src="https://github.com/bashoori/repo/blob/master/p1.JPG" alt="https://github.com/bashoori/Data-Science-Projects" height="30" width="30" /></a>
-<a href="https://github.com/DataCoder2020/Data-Science-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="https://github.com/DataCoder2020/Pandas/" height="30" width="30" /></a>
-<a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power_BI" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"  /></a>
-<a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" alt="https://github.com/DataCoder2020/Business-Intelligence-Projects/"/></a>
-<a href="https://github.com/DataCoder2020/SQL/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/BI.JPG" alt="BI" alt="https://github.com/DataCoder2020/SQL/"/></a>
-<a href="https://github.com/DataCoder2020/R/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/R1.JPG" alt="https://github.com/DataCoder2020/R/" height="40" width="40" /></a>
 
 💡 **Explore some of my work:**
 
