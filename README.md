@@ -60,3 +60,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<h1 align="left">Hi 👋, I'm Bita!</h1>
+
+🚀 **Data Engineer | Digital Marketer | AI & Automation Enthusiast**  
+
+With **4+ years of experience** designing **scalable data pipelines**, **ETL workflows**, and **cloud-based analytics solutions**, I have worked across **healthcare, retail, and services industries**. Passionate about **data-driven solutions, automation, and AI-powered analytics**.
+
+---
+
+## 🔹 **Expertise**
+✅ **Cloud & Big Data**: AWS (Redshift, S3, Glue), Google BigQuery, Apache Airflow  
+✅ **Programming**: Python, SQL, Scala (familiar), JavaScript/JSON (familiar)  
+✅ **Data Engineering Tools**: Databricks, Spark, Apache Airflow, Fivetran, SSIS, Denodo  
+✅ **Business Intelligence & Analytics**: Power BI, Google Analytics, Google Ads  
+✅ **ETL & Automation**: Designed workflows that improved data processing efficiency by **30%**  
+
+---
+
+## 🔹 **Key Highlights**
+- 🏗 **Built & optimized high-performance ETL pipelines** for structured & unstructured data  
+- ⚙️ **Integrated & automated data workflows**, ensuring **99.9% data accuracy**  
+- 📊 **Applied analytics to marketing & growth optimization**, bridging data & business strategy  
+- 🤝 **Collaborated with cross-functional teams** to enable data-driven decision-making  
+
+---
+
+## 📂 **Projects & Repositories**
+💡 Explore some of my work:
+
+[![Data Science Projects](https://github.com/DataCoder2020/repo/blob/master/p1.JPG)](https://github.com/bashoori/Data-Science-Projects)
+[![Pandas Projects](https://github.com/DataCoder2020/repo/blob/master/pandas.JPG)](https://github.com/DataCoder2020/Data-Science-Projects/)
+[![Power BI](https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg)](https://github.com/DataCoder2020/Business-Intelligence-Projects/)
+[![Tableau](https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG)](https://github.com/DataCoder2020/Business-Intelligence-Projects/)
+[![SQL](https://github.com/DataCoder2020/repo/blob/master/BI.JPG)](https://github.com/DataCoder2020/SQL/)
+[![R Projects](https://github.com/DataCoder2020/repo/blob/master/R1.JPG)](https://github.com/DataCoder2020/R/)
+
+---
+
+## 📬 **How to Reach Me**
+🔗 **LinkedIn**: [Bita Ashoori](https://www.linkedin.com/in/bitaashoori/)  
+📊 **Kaggle**: [Bita Ashoori](https://www.kaggle.com/bitaashoori)  
+💻 **HackerRank**: [DataCoder BA](https://www.hackerrank.com/datacoder_ba)  
+
+---
+
+## 📊 **GitHub Stats**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashoori&layout=compact)](https://github.com/bashoori/github-readme-stats)  
+![](https://komarev.com/ghpvc/?username=bashoori)
+
+---
+
+🔥 *I love connecting with like-minded professionals! Feel free to reach out or collaborate on exciting projects!*  
