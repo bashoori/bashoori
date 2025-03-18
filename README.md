@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Bita!</h1>
 
-🚀 **Data Engineer | Digital Marketer | AI & Automation Enthusiast**  
+🚀 **Data Engineer | AI & Automation Enthusiast**  
 
 With **4+ years of experience** designing **scalable data pipelines**, **ETL workflows**, and **cloud-based analytics solutions**, I have worked across **healthcare, retail, and services industries**. Passionate about **data-driven solutions, automation, and AI-powered analytics**.
 
