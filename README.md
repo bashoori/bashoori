@@ -37,14 +37,6 @@ With over **5 years of experience** building **scalable data pipelines**, **ETL 
 
 ---
 
-## 📬 How to Reach Me
-
-🔗 **LinkedIn**: [Bita Ashoori](https://www.linkedin.com/in/bitaashoori/)  
-🌐 **Portfolio**: [bitadigitalmarketer.com](https://bitadigitalmarketer.com)  
-✉️ **Let’s connect and collaborate on data, automation, and AI-powered projects!**
-
----
-
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashoori&layout=compact)](https://github.com/bashoori)  
@@ -52,45 +44,10 @@ With over **5 years of experience** building **scalable data pipelines**, **ETL 
 
 ---
 
-🔥 *I love sharing ideas, mentoring aspiring data engineers, and building tools that make life simpler and smarter. Let’s connect!*  
-
-## 📂 **Projects & Repositories**
-
-💡 **Explore some of my work:**
-
-<p align="left">
-  <a href="https://github.com/bashoori/Data-Engineering-Project" target="_blank">
-    <img src="https://github.com/bashoori/repo/blob/master/data_engineer_icon.png" alt="Data Engineering Project" height="40" width="35"/>
-  </a>
-  <a href="https://github.com/bashoori/Data-Science-Projects" target="_blank">
-    <img src="https://github.com/bashoori/repo/blob/master/p1.JPG" alt="Data Science Projects" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/Data-Science-Projects/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/pandas.JPG" alt="Pandas Projects" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/power_bi.jpg" alt="Power BI" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/Business-Intelligence-Projects/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/TABLEAU.JPG" alt="Tableau" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/SQL/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/BI.JPG" alt="SQL/BI" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/DataCoder2020/R/" target="_blank">
-    <img src="https://github.com/DataCoder2020/repo/blob/master/R1.JPG" alt="R Projects" height="30" width="30"/>
-  </a>
-</p>
-
 ## 📬 **How to Reach Me**
 🔗 **LinkedIn**: [Bita Ashoori](https://www.linkedin.com/in/bitaashoori/)  
 <!--  📊 **Kaggle**: [Bita Ashoori](https://www.kaggle.com/bitaashoori)  -->
 <!--  💻 **HackerRank**: [DataCoder BA](https://www.hackerrank.com/datacoder_ba)  -->
-
-
-## 📊 **GitHub Stats**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashoori&layout=compact)](https://github.com/bashoori/github-readme-stats)  
-![](https://komarev.com/ghpvc/?username=bashoori)
 
 
 🔥 *I love connecting with like-minded professionals! Feel free to reach out or collaborate on exciting projects!*  
