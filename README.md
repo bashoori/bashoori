@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Bita Ashoori</h1>
+<h1 align="center">👋 Hi, I'm Bita </h1>
 
 <p align="center">
   <strong>🚀 Data Engineer | Cloud-Native Pipelines | AI & Automation Enthusiast</strong><br/>
