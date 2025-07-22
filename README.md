@@ -51,7 +51,7 @@ I'm a Data Engineer with 5+ years of experience designing, building, and automat
 
 🔗 [LinkedIn: bitaashoori](https://www.linkedin.com/in/bitaashoori/)  
 🌐 [Portfolio Site](https://bashoori.github.io/data-engineering-portfolio/)  
-✉️ Email: `bitaashoori20@gmail.com`
+✉️ Email: `bita.projects@gmail.com`
 
 ---
 
