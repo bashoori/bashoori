@@ -61,7 +61,6 @@ I bridge traditional ETL with modern cloud data engineering — delivering **sec
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/bitaashoori/)  
 🌐 [**Portfolio**](https://bashoori.github.io/data-engineering-portfolio/)  
-✉️ **Email:** `bita.projects@gmail.com`
 
 ---
 
