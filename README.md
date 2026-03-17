@@ -1,67 +1,93 @@
-<h1 align="center">👋 Hi, I'm Bita</h1>
+<h1 align="center">Hi, I'm Bita</h1>
 
 <p align="center">
-  <strong>🚀 Data Engineer | Azure & Databricks | Cloud-Native Pipelines | AI & Automation Enthusiast</strong><br/>
-  Turning raw data into scalable, real-world solutions.
+  💻 Data Engineer | ☁️ Azure & Databricks | ⚙️ Building reliable data systems
+</p>
+
+<p align="center">
+  👁️ <img src="https://komarev.com/ghpvc/?username=bashoori&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/bitaashoori/">LinkedIn</a> • 
+  🌐 <a href="https://bashoori.github.io/portfolio">Portfolio</a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Data Engineer with 5+ years of experience **designing, building, and automating data pipelines** across healthcare, retail, and enterprise environments.  
-I bridge traditional ETL with modern cloud data engineering — delivering **secure, governed, and analytics-ready systems**.
+I’m a Data Engineer with 5+ years of experience building data pipelines that hold up under real usage.
 
-**My focus areas include:**
-- ☁️ **Cloud-native ETL** using Azure Data Factory, Databricks, AWS, and Docker  
-- ⚙️ **Data orchestration & automation** with Airflow and CI/CD pipelines  
-- 🧠 **AI-assisted data workflows** and intelligent ingestion systems  
-- 📊 **End-to-end analytics** with Power BI dashboards and performance KPIs  
-- 💬 Passionate about continuous learning, mentoring, and clean, maintainable code  
+My work sits between traditional ETL and modern cloud platforms. I focus on systems that are reliable, observable, and easy to extend. Most of my experience comes from healthcare, retail, and enterprise environments where data is messy and business-critical.
+
+I care about how data flows, where it breaks, and how to make it trustworthy for downstream use.
+
+---
+
+## ⚙️ What I Work On
+
+- 🔄 End-to-end pipelines from ingestion to reporting  
+- 🧱 Lakehouse architectures (Databricks, Delta Lake)  
+- ⏱️ Workflow orchestration with Airflow  
+- 🔍 Data quality, lineage, and governance  
+- 📊 Analytics-ready datasets for BI and reporting  
 
 ---
 
 ## 🧰 Tech Stack
 
-**Core Skills**  
-`Python` · `SQL` · `PySpark` · `Airflow` · `Docker` · `Power BI`  
-`Databricks` · `Azure Data Factory` · `AWS (S3, Redshift, Lambda)` · `PostgreSQL`  
-`BeautifulSoup` · `Streamlit` · `GitHub Actions` · `Data Modeling`  
+**Languages & Processing**  
+🐍 Python · 🧮 SQL · ⚡ PySpark  
+
+**Data Platforms**  
+🧱 Databricks · ☁️ Azure Data Factory · 🔄 Airflow · 🐳 Docker  
+
+**Cloud & Storage**  
+☁️ Azure · 🪣 AWS (S3, Redshift, Lambda)  
+
+**Analytics**  
+📊 Power BI · 🧩 Data Modeling · 🐘 PostgreSQL  
+
+**Other**  
+🔁 GitHub Actions · 📡 API Integration · 🖥️ Streamlit  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-| Project | Description | Stack |
-|----------|-------------|--------|
-| [**End-to-End Data Pipeline with Databricks**](https://github.com/bashoori/data-engineering-portfolio/tree/main/databricks-end-to-end) | Medallion architecture with Delta Lake, Unity Catalog, and Power BI reporting | Azure, Databricks, Delta Lake |
-| [**Airflow + Spark + AWS ETL Pipeline**](https://github.com/bashoori/airflow-spark-aws-etl-pipeline) | Cloud-native ETL using PySpark and Airflow, orchestrated in Docker | PySpark, Airflow, AWS, Docker |
-| [**Marketing Analytics Pipeline**](https://github.com/bashoori/marketing-analytics-pipeline) | API ingestion → transform → load → dashboard | Airflow, Lambda, PostgreSQL, Streamlit |
-| [**Customer360 Lakehouse**](https://github.com/bashoori/customer-data-lakehouse) | Delta Lake medallion design for unified customer analytics | Databricks, Delta Lake, Spark |
-| [**Cloud ETL Modernization**](https://github.com/bashoori/data-engineering-portfolio/tree/main/cloud-etl-modernization-airflow-aws) | Modular ETL: API → transform → load into PostgreSQL/S3 | Python, Airflow, AWS |
-| [**Real-Time Marketing Pipeline**](https://github.com/bashoori/data-engineering-portfolio/tree/main/real-time-marketing-pipeline) | Streaming simulation with Airflow and SQL transformations | Airflow, SQL, Docker |
-| [**FHIR Healthcare Pipeline**](https://github.com/bashoori/data-engineering-portfolio/tree/main/healthcare-FHIR-data-pipeline) | Extracts and visualizes patient data from FHIR JSON | Python, Pandas, Streamlit |
-| [**AWS Lambda LinkedIn Scraper**](https://github.com/bashoori/data-engineering-portfolio/tree/main/aws-lambda-linkedIn-scraper) | Serverless scraper storing LinkedIn job data to S3 | AWS Lambda, BeautifulSoup, S3 |
-| [**eBay Product Tracker**](https://github.com/bashoori/data-engineering-portfolio/tree/main/ebay-product-tracker) | Scrapes eBay listings and prices with scheduling | Python, BeautifulSoup |
-| [**Telegram Bots for Automation**](https://github.com/bashoori/telegrambots) | Interactive Telegram bots with command handlers and data logging | Python, Telegram Bot API |
+### 🧱 End-to-End Data Pipeline with Databricks  
+Medallion architecture (Bronze, Silver, Gold) with Delta Lake and Unity Catalog. Built for scalable and governed analytics.  
+🔗 https://github.com/bashoori/data-engineering-portfolio/tree/main/databricks-end-to-end  
 
 ---
 
-## 📈 GitHub Snapshot
+### 🔄 Airflow + Spark + AWS ETL Pipeline  
+Containerized ETL pipeline with orchestration, retries, and scheduling. Designed to reflect production patterns.  
+🔗 https://github.com/bashoori/airflow-spark-aws-etl-pipeline  
+
+---
+
+### 📊 Marketing Analytics Pipeline  
+API → transform → warehouse → dashboard. Focus on turning raw data into usable metrics.  
+🔗 https://github.com/bashoori/marketing-analytics-pipeline  
+
+---
+
+### 🧩 Customer360 Lakehouse  
+Unified customer data model for consistent analytics across sources.  
+🔗 https://github.com/bashoori/customer-data-lakehouse  
+
+---
+
+## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashoori&layout=compact&theme=default" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashoori&layout=compact" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=bashoori&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bashoori&show_icons=true" />
 </p>
 
 ---
 
-## 📬 Let's Connect
-
-🔗 [**LinkedIn**](https://www.linkedin.com/in/bitaashoori/)  
-🌐 [**Portfolio**](https://bashoori.github.io/data-engineering-portfolio/)  
-
----
-
-<p align="center"><i>“Play to win. Learn to lead. Build to last.”</i></p>
+<p align="center"><i>Build systems that survive reality, not just demos.</i></p>
