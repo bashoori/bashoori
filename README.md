@@ -44,10 +44,13 @@ I care about how data flows, where it breaks, and how to make it trustworthy for
 🧱 Databricks · ☁️ Azure Data Factory · 🔄 Airflow · 🐳 Docker  
 
 **Cloud & Storage**  
-☁️ Azure · 🪣 AWS (S3, Redshift, Lambda)  
+☁️ Azure · 🪣 AWS S3  
+
+**Data Warehousing**  
+🏗️ AWS Redshift · 🐘 PostgreSQL  
 
 **Analytics**  
-📊 Power BI · 🧩 Data Modeling · 🐘 PostgreSQL  
+📊 Power BI · 🧩 Data Modeling  
 
 **Other**  
 🔁 GitHub Actions · 📡 API Integration · 🖥️ Streamlit  
