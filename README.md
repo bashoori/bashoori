@@ -55,6 +55,15 @@ I care about how data flows, where it breaks, and how to make it trustworthy for
 
 ## 🚀 Selected Projects
 
+### 🌍 Global Retail Lakehouse (Microsoft Fabric)  
+Designed an end-to-end data platform for a global retail company operating across multiple regions. Implemented a medallion lakehouse architecture (Bronze, Silver, Gold) to standardize ingestion, transformation, and analytics across domains.
+
+Focused on building a unified data model for sales, customers, and products, enabling scalable reporting and cross-region insights.
+
+🔗 https://github.com/bashoori/Global-Retail-Lakehouse-on-Microsoft-Fabric  
+
+---
+
 ### 🧱 End-to-End Data Pipeline with Databricks  
 Medallion architecture (Bronze, Silver, Gold) with Delta Lake and Unity Catalog. Built for scalable and governed analytics.  
 🔗 https://github.com/bashoori/data-engineering-portfolio/tree/main/databricks-end-to-end  
