@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  👁️ <img src="https://komarev.com/ghpvc/?username=bashoori&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">
   🔗 <a href="https://www.linkedin.com/in/bitaashoori/">LinkedIn</a> • 
   🌐 <a href="https://bashoori.github.io/portfolio">Portfolio</a>
 </p>
@@ -92,5 +88,10 @@ Unified customer data model for consistent analytics across sources.
 </p>
 
 ---
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=bashoori&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 
 <p align="center"><i>Build systems that survive reality, not just demos.</i></p>
