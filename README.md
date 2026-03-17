@@ -87,6 +87,9 @@ Unified customer data model for consistent analytics across sources.
   <img src="https://github-readme-stats.vercel.app/api?username=bashoori&show_icons=true" />
 </p>
 
+
+<p align="center"><i>Build systems that survive reality, not just demos.</i></p>
+
 ---
 
 <p align="center">
@@ -94,4 +97,3 @@ Unified customer data model for consistent analytics across sources.
 </p>
 
 
-<p align="center"><i>Build systems that survive reality, not just demos.</i></p>
