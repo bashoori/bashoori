@@ -55,6 +55,13 @@ I care about how data flows, where it breaks, and how to make it trustworthy for
 
 ## 🚀 Selected Projects
 
+### 🚍 TransLink GTFS Data Warehouse
+Built an end-to-end medallion data warehouse on real TransLink GTFS data, structuring raw feeds into validated layers and dimensional models. Solved GTFS-specific challenges such as time values beyond 24:00 and enabled time-based analysis with a date dimension and quality checks across the pipeline.
+
+🔗 https://github.com/bashoori/transit_data_warehouse
+
+---
+
 ### 🌍 Global Retail Lakehouse (Microsoft Fabric)  
 Designed an end-to-end data platform for a global retail company operating across multiple regions. Implemented a medallion lakehouse architecture (Bronze, Silver, Gold) to standardize ingestion, transformation, and analytics across domains.
 
