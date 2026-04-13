@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I’m a Data Engineer with 5+ years of experience building data pipelines that hold up under real usage.
 
