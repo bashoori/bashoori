@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bita</h1>
 
 <p align="center">
-  💻 Data Engineer | ☁️ Azure & Databricks | ⚙️ Building reliable data systems
+  Data Engineer focused on building reliable, scalable data systems
 </p>
 
 <p align="center">
@@ -13,102 +13,97 @@
 
 ## About Me
 
-I’m a Data Engineer with 5+ years of experience building data pipelines that hold up under real usage.
+I’m a Data Engineer with 5+ years of experience working with data systems that are often fragmented, inconsistent, and difficult to trust.
 
-My work sits between traditional ETL and modern cloud platforms. I focus on systems that are reliable, observable, and easy to extend. Most of my experience comes from healthcare, retail, and enterprise environments where data is messy and business-critical.
+My work focuses on bringing structure to those environments by designing pipelines that are reliable, observable, and maintainable. I’ve worked across healthcare, retail, and enterprise systems where data is business-critical and small inconsistencies have real impact.
 
-I care about how data flows, where it breaks, and how to make it trustworthy for downstream use.
-
----
-
-## ⚙️ What I Work On
-
-- 🔄 End-to-end pipelines from ingestion to reporting  
-- 🧱 Lakehouse architectures (Databricks, Delta Lake)  
-- ⏱️ Workflow orchestration with Airflow  
-- 🔍 Data quality, lineage, and governance  
-- 📊 Analytics-ready datasets for BI and reporting  
+I’m particularly interested in how data platforms evolve, from legacy ETL toward modern, cloud-based architectures.
 
 ---
 
-## 🧰 Tech Stack
+## What I Focus On
 
-**Languages & Processing**  
-🐍 Python · 🧮 SQL · ⚡ PySpark  
+- Designing end-to-end data pipelines from ingestion to reporting  
+- Structuring data using medallion and dimensional modeling approaches  
+- Improving data quality through validation, monitoring, and clear transformation logic  
+- Integrating multiple systems into consistent, analysis-ready datasets  
+- Building toward scalable data platforms using Azure, Fabric, and Databricks  
 
-**Data Platforms**  
-🧱 Databricks · ☁️ Azure Data Factory · 🔄 Airflow · 🐳 Docker  
+---
+
+## Tech Stack
+
+**Languages**  
+Python · SQL · PySpark  
+
+**Data Platforms & Orchestration**  
+Azure Data Factory · Databricks · Apache Airflow  
 
 **Cloud & Storage**  
-☁️ Azure · 🪣 AWS S3  
+Azure · AWS S3  
 
-**Data Warehousing**  
-🏗️ AWS Redshift · 🐘 PostgreSQL  
+**Data Warehousing & Modeling**  
+Redshift · PostgreSQL · Dimensional Modeling  
 
-**Analytics**  
-📊 Power BI · 🧩 Data Modeling  
+**Analytics & Reporting**  
+Power BI  
 
 **Other**  
-🔁 GitHub Actions · 📡 API Integration · 🖥️ Streamlit  
+Git · Docker · API Integration  
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
-### 🚍 TransLink GTFS Data Warehouse
-Built an end-to-end medallion data warehouse on real TransLink GTFS data, structuring raw feeds into validated layers and dimensional models. Solved GTFS-specific challenges such as time values beyond 24:00 and enabled time-based analysis with a date dimension and quality checks across the pipeline.
+### TransLink GTFS Data Warehouse
+End-to-end data warehouse built on real GTFS transit data using a medallion architecture.
+
+- Structured raw transit feeds into validated Bronze, Silver, and Gold layers  
+- Addressed domain-specific challenges such as time values beyond 24:00  
+- Built dimensional models to support time-based analysis and reporting  
+- Embedded data quality checks across pipeline layers  
 
 🔗 https://github.com/bashoori/transit_data_warehouse
 
 ---
 
-### 🌍 Global Retail Lakehouse (Microsoft Fabric)  
-Designed an end-to-end data platform for a global retail company operating across multiple regions. Implemented a medallion lakehouse architecture (Bronze, Silver, Gold) to standardize ingestion, transformation, and analytics across domains.
+### Global Retail Lakehouse (Microsoft Fabric)
+Designed a lakehouse platform for a multi-region retail scenario.
 
-Focused on building a unified data model for sales, customers, and products, enabling scalable reporting and cross-region insights.
+- Implemented medallion architecture to standardize ingestion and transformation  
+- Built unified data models for customers, products, and sales  
+- Focused on creating consistent datasets across regions for scalable reporting  
+
 🔗 https://github.com/bashoori/Global-Retail-Lakehouse-on-Microsoft-Fabric  
 
 ---
 
-### 🧱 End-to-End Data Pipeline with Databricks  
-Medallion architecture (Bronze, Silver, Gold) with Delta Lake and Unity Catalog. Built for scalable and governed analytics.  
+### Databricks End-to-End Pipeline
+Medallion-based pipeline using Delta Lake and Unity Catalog.
+
+- Designed for scalable processing and governed data access  
+- Structured transformations for clarity, reuse, and maintainability  
+
 🔗 https://github.com/bashoori/data-engineering-portfolio/tree/main/databricks-end-to-end  
 
 ---
 
-### 🔄 Airflow + Spark + AWS ETL Pipeline  
-Containerized ETL pipeline with orchestration, retries, and scheduling. Designed to reflect production patterns.  
+### Airflow + Spark + AWS Pipeline
+Containerized ETL pipeline reflecting production patterns.
+
+- Implemented orchestration, retries, and scheduling  
+- Focused on reliability and operational behavior of pipelines  
+
 🔗 https://github.com/bashoori/airflow-spark-aws-etl-pipeline  
 
 ---
 
-### 📊 Marketing Analytics Pipeline  
-API → transform → warehouse → dashboard. Focus on turning raw data into usable metrics.  
-🔗 https://github.com/bashoori/marketing-analytics-pipeline  
+## Direction
+
+- Microsoft Certified: Azure Data Fundamentals (DP-900)  
+- Preparing for: Microsoft Fabric Data Engineer (DP-700)  
+- Building hands-on projects focused on cloud-based data platforms  
 
 ---
 
-### 🧩 Customer360 Lakehouse  
-Unified customer data model for consistent analytics across sources.  
-🔗 https://github.com/bashoori/customer-data-lakehouse  
-
----
-
-## 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashoori&layout=compact" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=bashoori&show_icons=true" />
-</p>
-
-
-<p align="center"><i>Build systems that survive reality, not just demos.</i></p>
-
----
-
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=bashoori&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-
+<p align="center"><i>Build systems that remain reliable as complexity grows.</i></p>
