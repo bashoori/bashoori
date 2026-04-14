@@ -107,3 +107,5 @@ Containerized ETL pipeline reflecting production patterns.
 ---
 
 <p align="center"><i>Build systems that remain reliable as complexity grows.</i></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=bashoori&color=0e75b6&label=Views)
