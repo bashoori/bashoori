@@ -6,7 +6,7 @@
 
 <p align="center">
   🔗 <a href="https://www.linkedin.com/in/bitaashoori/">LinkedIn</a> • 
-  🌐 <a href="https://bashoori.github.io/portfolio">Portfolio</a>
+  🌐 <a href="https://bashoori.github.io/hub">myHub</a>
 </p>
 
 ---
