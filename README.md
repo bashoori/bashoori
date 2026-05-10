@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bitaashoori/"><img src="https://img.shields.io/badge/LinkedIn-bitaashoori-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://bashoori.github.io/hub"><img src="https://img.shields.io/badge/Portfolio-myHub-0e75b6?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:datacoder.ba@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:bitaashoori20@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=bashoori&color=0e75b6&label=Profile+views" alt="Profile views">
 </p>
 
@@ -109,7 +109,7 @@ I'm open to **Data Engineering** roles (full-time, contract, or remote). Reach o
 <p>
   <a href="https://www.linkedin.com/in/bitaashoori/">LinkedIn</a> ·
   <a href="https://bashoori.github.io/hub">Portfolio</a> ·
-  <a href="mailto:datacoder.ba@gmail.com">Email</a>
+  <a href="mailto:bitaashoori20@gmail.com">Email</a>
 </p>
 
 <p align="center"><sub><em>Build systems that remain reliable as complexity grows.</em></sub></p>
