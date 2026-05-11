@@ -84,8 +84,9 @@ Containerized ETL reflecting **production patterns** — orchestration, retries,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bashoori&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashoori&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img src="https://img.shields.io/github/followers/bashoori?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/bashoori?style=for-the-badge&color=0e75b6&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=bashoori&style=for-the-badge&color=0e75b6&label=Profile+views" />
 </p>
 
 <p align="center">
