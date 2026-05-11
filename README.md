@@ -57,6 +57,13 @@ Currently focused on the move from legacy ETL to **modern cloud lakehouse archit
 
 ## 📌 Featured Projects
 
+### 🤖 [ML-Ready Data Pipeline](https://github.com/bashoori/ml-ready-data-pipeline)
+Medallion-architecture pipeline that turns messy, multi-source raw data into validated, observable, **ML-ready feature tables**.
+- Bronze → Silver → Gold with embedded data-quality checks at every layer
+- Per-run DQ report (JSON + Markdown) for observability
+- ML consumer example showing the DE → ML handoff with scikit-learn
+> **Stack:** Python · Pandas · SQL · Medallion · Data Quality
+
 ### 🚆 [TransLink GTFS Data Warehouse](https://github.com/bashoori/transit_data_warehouse)
 End-to-end data warehouse on real GTFS transit data using a **medallion architecture**.
 - Bronze → Silver → Gold layers with embedded data-quality checks
