@@ -77,7 +77,7 @@ Multi-region retail lakehouse with **unified customer / product / sales models**
 - Consistent datasets for scalable Power BI reporting
 > **Stack:** Microsoft Fabric · OneLake · Power BI · Medallion
 
-### ⚙️ [Databricks End-to-End Pipeline](https://github.com/bashoori/data-engineering-portfolio/tree/main/databricks-end-to-end)
+### ⚙️ [Databricks End-to-End Pipeline](https://github.com/bashoori/databricks-lakehouse-pipeline)
 Medallion-based pipeline using **Delta Lake + Unity Catalog**.
 - Governed access, scalable processing, reusable transformations
 > **Stack:** Databricks · Delta Lake · Unity Catalog · PySpark
