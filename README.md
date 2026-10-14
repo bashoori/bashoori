@@ -1,167 +1,140 @@
-<!--
-  Bita Ashoori — GitHub Profile README
-  How to use this file:
-  1. Create (or open) a repo named exactly "bashoori"  →  github.com/bashoori/bashoori
-  2. Add this file at the repo root as README.md
-  3. GitHub renders it on your profile page automatically.
--->
-
 <h1 align="center">Hi, I'm Bita 👋</h1>
 
 <p align="center">
-  <strong>Data Engineer</strong> · Microsoft Stack · Big Data · Cloud-Native ETL<br/>
-  <em>Building scalable, reliable data platforms with Azure, Fabric, and Spark.</em>
+  <strong>Data Engineer</strong> · SQL Server & ETL · Microsoft Fabric & Azure · Data Quality<br/>
+  <em>I build data pipelines that teams can trust in production.</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bitaashoori/"><img src="https://img.shields.io/badge/LinkedIn-bitaashoori-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://bitadigitalhub.com"><img src="https://img.shields.io/badge/Website-bitadigitalhub.com-2E7D32?style=flat" alt="Website"></a>
   <a href="https://bashoori.github.io/hub"><img src="https://img.shields.io/badge/Portfolio-myHub-0e75b6?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.youtube.com/@bitadigitalhub"><img src="https://img.shields.io/badge/YouTube-Data%20with%20Bita-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:ashoori.bita@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=bashoori&color=0e75b6&label=Profile+views" alt="Profile views">
 </p>
 
 ---
 
-## 🎯 About
+## 🎯 About me
 
-Data Engineer with **5+ years** of experience building scalable, reliable **cloud data platforms** using Microsoft Azure, Fabric, and Apache Spark. I specialize in turning fragmented, inconsistent data into trustworthy systems where small data quality issues don't become business problems.
+I'm a Data Engineer in the Vancouver area with **5+ years** of hands-on work in ETL, SQL Server, Python and cloud data pipelines, across **healthcare, retail and enterprise** teams.
 
-My focus:
-- **Cloud Data Platforms** — Microsoft Azure, Fabric, medallion architecture, cloud-native design
-- **Big Data Processing** — Apache Spark, distributed computing, performance optimization
-- **Analytics Engineering** — Dimensional modeling, analytics-ready data warehouses, Power BI
-- **Data Quality & Reliability** — Validation, monitoring, observability, production patterns
+I care about how data systems behave after go-live. Most data problems I've fixed weren't about clever code. They came from bad source data, missing checks or pipelines that failed quietly. So I build validation, monitoring and retries in from the start, not as a patch later.
 
-📍 Vancouver, Canada  ·  🇨🇦 Open to Data Engineer / Analytics Engineer roles  ·  Public sector focus (TransLink, health authorities, government)
+Right now I'm growing in **Microsoft Fabric, Azure and lakehouse design**, and I'm preparing for **DP-700** and **DP-600**.
 
 ---
 
-## 🛠 Tech Stack
+## 💼 Experience at a glance
 
-**Cloud & Big Data Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-</p>
-
-**Data Warehousing & Analytics**
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white" />
-</p>
-
-**Orchestration & Processing**
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-</p>
-
-**Infrastructure & Tools**
-<p>
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
-
-**Architecture & Patterns**  
-Medallion Architecture · Dimensional Modeling · Real-time Pipelines · Cloud-Native Design · Data Quality Validation · Observability
+| Where | Role | What I did |
+|---|---|---|
+| **O2E Brands** | Data Engineer (2021-2024) | Built Python + Airflow pipelines into Redshift from Salesforce, Google Analytics, PureCloud and Invoca. Added data quality checks, monitoring and retries that cut pipeline failures by about **40%** and API failures by about **70%**. Tuned Redshift SQL for about **60%** faster queries. |
+| **Vancouver Coastal Health** | Healthcare ETL Developer (2019-2021) | Built SSIS and T-SQL pipelines for patient, census and lab data. Developed Denodo views to unify clinical systems. Worked on Oracle to SQL Server migration, plus validation and reconciliation. |
+| **Georgia Main Food Group** | Junior BI Developer (2017-2019) | Built SSIS pipelines from POS and legacy sources into a SQL Server warehouse, designed star schemas, and built 50+ SSRS and Power BI reports. |
+| **Data for Good** | Data Consultant / Data Modeler (2026-now) | Volunteer data work for non-profits: data models, source-to-target mapping and a Microsoft Fabric reporting flow for a women's resource society. |
 
 ---
 
-## 📌 Featured Projects
+## 🛠 Tech stack
 
-### 🌐 [Global Retail Lakehouse — Microsoft Fabric](https://github.com/bashoori/Global-Retail-Lakehouse-on-Microsoft-Fabric)
-**Enterprise-scale medallion lakehouse** on Microsoft Fabric. Multi-region retail data platform (27 countries, 10B+ annual transactions).
-- Incremental processing, data quality validation, analytics-ready models
-- Unified customer / product / sales dimensional models
-- Power BI integration for real-time reporting
-> **Stack:** Microsoft Fabric · OneLake · PySpark · Power BI · Big Data at scale
+**Production experience**
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat" alt="T-SQL">
+  <img src="https://img.shields.io/badge/SSIS-CC2927?style=flat" alt="SSIS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow">
+  <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white" alt="Redshift">
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="AWS S3">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Denodo-00A1E0?style=flat" alt="Denodo">
+</p>
 
-### 🚆 [TransLink GTFS Data Warehouse](https://github.com/bashoori/transit_data_warehouse)
-**End-to-end data warehouse** on real TransLink GTFS transit data using medallion architecture.
-- Bronze → Silver → Gold layers with embedded data-quality checks
-- Handled domain edge cases (GTFS times beyond 24:00)
-- Dimensional models for ridership analysis and operational insights
-- **Public sector project** (TransLink / transit authority relevance)
-> **Stack:** Python · SQL Server · Medallion · Dimensional Modeling
+**Cloud and lakehouse projects**
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Fabric">
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure Data Factory">
+  <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure SQL">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat" alt="Delta Lake">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+</p>
 
-### ⚙️ [Cloud ETL Modernization — Airflow + AWS](https://github.com/bashoori/cloud-etl-modernization-airflow-aws)
-**Production-grade ETL pipeline** demonstrating enterprise reliability patterns.
-- Apache Airflow orchestration, Spark distributed processing, AWS infrastructure
-- Idempotency, failure handling, comprehensive monitoring and observability
-- Real-world migration case study: legacy batch jobs → cloud-native DAGs
-> **Stack:** Apache Airflow · Spark · AWS · Production Patterns
+**Learning now:** PySpark · Spark · KQL · dbt · Snowflake
 
-### 🔬 [Databricks End-to-End Pipeline](https://github.com/bashoori/databricks-lakehouse-pipeline)
-**Medallion-based lakehouse** using Delta Lake + Unity Catalog.
-- Governed data access, scalable PySpark transformations, reusable logic
-> **Stack:** Databricks · Delta Lake · Unity Catalog · PySpark
+**How I work:** Medallion architecture · Dimensional modeling · Source-to-target mapping · Data validation and reconciliation · Monitoring and retries
+
+---
+
+## 📌 Featured projects
+
+### 🌐 [Global Retail Lakehouse on Microsoft Fabric](https://github.com/bashoori/Global-Retail-Lakehouse-on-Microsoft-Fabric)
+A Bronze / Silver / Gold lakehouse for a fictional multi-country retailer.
+- Metadata-driven loads with separate backfill and incremental paths
+- Silver layer for quality checks, schema alignment, currency and time zone handling
+- Gold models for sales, inventory and customers, ready for Power BI
+> **Stack:** Microsoft Fabric · OneLake · Pipelines · Spark notebooks · Delta Lake · Power BI
+
+### 🚆 [Transit Data Warehouse (GTFS)](https://github.com/bashoori/transit_data_warehouse)
+An end-to-end warehouse built on a real public transit GTFS feed.
+- Bronze, Silver and Gold layers, with assertion tests for keys, nulls and duplicates
+- Handles GTFS times past 24:00 and expands service calendars into a date dimension
+- Star schema with route, stop, trip and date dimensions and trip-level facts
+> **Stack:** Python · Medallion architecture · Dimensional modeling · Data quality tests
+
+### ⚙️ [ETL Pipeline with Airflow, Docker and AWS](https://github.com/bashoori/cloud-etl-modernization-airflow-aws)
+A containerized Airflow pipeline that ingests JSON, transforms it in Python and loads it to a Redshift-style target.
+- A small demo of the Airflow patterns I worked with at O2E
+- Runs locally with Docker and Codespaces
+> **Stack:** Apache Airflow · Python · Docker · AWS S3 / Redshift (emulated)
+
+### 🔬 [Databricks Lakehouse Pipeline](https://github.com/bashoori/databricks-lakehouse-pipeline)
+A medallion pipeline on Azure Databricks for retail-style data.
+- Incremental MERGE into Delta tables, cleansing and validation in Silver
+- Daily and category-level sales aggregates in Gold
+> **Stack:** Azure Databricks · Delta Lake · Unity Catalog · PySpark · SQL
 
 ### 🏥 [Healthcare FHIR Data Pipeline](https://github.com/bashoori/healthcare-FHIR-data-pipeline)
-**Health data integration** using FHIR standards.
-- Multi-source healthcare data consolidation, compliance-focused design
-- **Public sector angle** (health authority data solutions)
-> **Stack:** FHIR · Healthcare APIs · Python · Data Integration
+Parses FHIR JSON bundles from synthetic patient data into tables, with a small dashboard on top.
+- Patient, condition, encounter and observation tables in SQLite
+- Streamlit dashboard with filters
+> **Stack:** Python · pandas · SQLite · Streamlit · Synthea (synthetic data)
+
+### 📊 [Data Science Projects](https://github.com/bashoori/Data-Science-Projects-Springboard)
+My Springboard Data Science work: hypothesis testing, machine learning, SQL and EDA, with two capstones.
+> **Stack:** Python · Jupyter · pandas · scikit-learn · SciPy
 
 ---
 
-## 🎯 What I Focus On
+## 🎓 Certifications
 
-✓ **Medallion Architecture** — Bronze/Silver/Gold layering, clean separation of concerns  
-✓ **Big Data at Scale** — PySpark, distributed processing, performance optimization  
-✓ **Cloud-Native Platforms** — Microsoft Azure, Fabric, modern data lakehouse design  
-✓ **Data Quality** — Validation gates, anomaly detection, observability  
-✓ **Analytics Engineering** — Dimensional models, fact/dimension tables, Power BI  
-✓ **Production Reliability** — Failure handling, retries, monitoring, operational maturity  
-✓ **Public Sector Data** — TransLink, healthcare, government-relevant skills  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/bashoori?label=Followers&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/bashoori?style=for-the-badge&color=0e75b6&label=Stars" />
-  <img src="https://komarev.com/ghpvc/?username=bashoori&style=for-the-badge&color=0e75b6&label=Profile+views" />
-</p>
+- ✅ Microsoft Certified: Azure Data Fundamentals (**DP-900**)
+- ✅ Databricks Lakehouse Fundamentals
+- ✅ Databricks Generative AI Fundamentals
+- ✅ Analyzing Data with Power BI (Microsoft Certificate of Achievement)
+- ✅ Scrum Fundamentals Certified (SFC)
+- 📘 Preparing for: **DP-700** (Fabric Data Engineer) and **DP-600** (Fabric Analytics Engineer)
 
 ---
 
-## 🎓 Certifications & Learning
+## 📣 Sharing what I learn
 
-- ✅ **Microsoft Certified: Azure Data Fundamentals (DP-900)**
-- 📘 In progress: **Microsoft Fabric Data Engineer (DP-700)**
-- 📚 Building hands-on lakehouse projects on **Microsoft Fabric & Databricks**
-
----
-
-## 💼 Currently Looking For
-
-**Data Engineer / Analytics Engineer** roles focused on:
-- ✓ Microsoft Azure / Fabric cloud platforms
-- ✓ Big data processing (Spark, distributed systems)
-- ✓ Medallion / lakehouse architectures
-- ✓ Analytics-ready data warehouse design
-- ✓ **Public sector** (TransLink, BC Public Service, health authorities, municipalities)
-
-📍 **Vancouver, Canada** · Open to on-site / hybrid / remote
+- 🎥 **[Data with Bita](https://www.youtube.com/@bitadigitalhub)** on YouTube: Microsoft Fabric, Azure, SQL and real-world data engineering scenarios
+- 📝 **[bitadigitalhub.com](https://bitadigitalhub.com)**: free DP-700 study notes
+- 💬 **[Data Engineers Club](https://t.me/dataengineers_club)** on Telegram: a community for learning data engineering together
+- 🎓 A DP-900 practice test course on Udemy
 
 ---
 
-## 📫 Let's Connect
+## 🔎 What I'm looking for
 
-I'm open to collaborating on data platform projects, exploring new roles, or discussing pipelines and data architecture.
+**Data Engineer, ETL Developer or Analytics Engineer** roles, especially:
+- Microsoft environments (SQL Server, Azure, Fabric)
+- Teams modernizing their data platform or moving to a lakehouse
+- Healthcare, public sector and community-focused organizations
 
-<p>
-  <a href="https://www.linkedin.com/in/bitaashoori/">LinkedIn</a> ·
-  <a href="https://bashoori.github.io/hub">Portfolio</a> ·
-  <a href="mailto:ashoori.bita@gmail.com">Email</a>
-</p>
+📍 Vancouver area, BC · Open to hybrid, on-site, remote (Canada) and contract work
 
-<p align="center"><sub><em>Build systems that remain reliable as complexity grows.</em></sub></p>
+<p align="center"><sub><em>Reliable data comes from good design, not from fixing reports afterwards.</em></sub></p>
