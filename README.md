@@ -29,10 +29,10 @@ Right now I'm growing in **Microsoft Fabric, Azure and lakehouse design**, and I
 
 | Where | Role | What I did |
 |---|---|---|
+| **Data for Good** | Data Consultant / Data Modeler (2026-now) | Data modeling and analysis for non-profit clients. For Atira Women's Resource Society, I'm turning manual incident-report forms into a Microsoft Fabric data model, with source-to-target mapping, data quality rules and Power Apps forms, and planning Power BI reporting on top. For ICTMD, I analyzed a Drupal and CiviCRM environment and delivered prioritized requirements to leadership. |
 | **O2E Brands** | Data Engineer (2021-2024) | Built Python + Airflow pipelines into Redshift from Salesforce, Google Analytics, PureCloud and Invoca. Added data quality checks, monitoring and retries that cut pipeline failures by about **40%** and API failures by about **70%**. Tuned Redshift SQL for about **60%** faster queries. |
 | **Vancouver Coastal Health** | Healthcare ETL Developer (2019-2021) | Built SSIS and T-SQL pipelines for patient, census and lab data. Developed Denodo views to unify clinical systems. Worked on Oracle to SQL Server migration, plus validation and reconciliation. |
 | **Georgia Main Food Group** | Junior BI Developer (2017-2019) | Built SSIS pipelines from POS and legacy sources into a SQL Server warehouse, designed star schemas, and built 50+ SSRS and Power BI reports. |
-| **Data for Good** | Data Consultant / Data Modeler (2026-now) | Volunteer data work for non-profits: data models, source-to-target mapping and a Microsoft Fabric reporting flow for a women's resource society. |
 
 ---
 
