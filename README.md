@@ -20,7 +20,6 @@ I'm a Data Engineer in the Vancouver area with **5+ years** of hands-on work in 
 
 I care about how data systems behave after go-live. Most data problems I've fixed weren't about clever code. They came from bad source data, missing checks or pipelines that failed quietly. So I build validation, monitoring and retries in from the start, not as a patch later.
 
-Right now I'm growing in **Microsoft Fabric, Azure and lakehouse design**, and I'm preparing for **DP-700** and **DP-600**.
 
 ---
 
@@ -114,7 +113,6 @@ My Springboard Data Science work: hypothesis testing, machine learning, SQL and 
 - ✅ Databricks Generative AI Fundamentals
 - ✅ Analyzing Data with Power BI (Microsoft Certificate of Achievement)
 - ✅ Scrum Fundamentals Certified (SFC)
-- 📘 Preparing for: **DP-700** (Fabric Data Engineer) and **DP-600** (Fabric Analytics Engineer)
 
 ---
 
