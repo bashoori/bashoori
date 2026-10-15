@@ -10,8 +10,7 @@
   <a href="https://bitadigitalhub.com"><img src="https://img.shields.io/badge/Website-bitadigitalhub.com-2E7D32?style=flat" alt="Website"></a>
  <!--  <a href="https://bashoori.github.io/hub"><img src="https://img.shields.io/badge/Portfolio-myHub-0e75b6?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"></a> -->
  <!--  <a href="https://www.youtube.com/@bitadigitalhub"><img src="https://img.shields.io/badge/YouTube-Data%20with%20Bita-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a> -->
-  <a href="mailto:ashoori.bita@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+ 
 
 ---
 
