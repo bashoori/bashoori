@@ -121,7 +121,7 @@ My Springboard Data Science work: hypothesis testing, machine learning, SQL and 
 
 ## 📣 Sharing what I learn
 
-- 🎥 **[Data with Bita](https://www.youtube.com/@bitadigitalhub)** on YouTube: Microsoft Fabric, Azure, SQL and real-world data engineering scenarios
+**Note:** - 🎥 **[Data with Bita](https://www.youtube.com/@bitadigitalhub)** on YouTube: Microsoft Fabric, Azure, SQL and real-world data engineering scenarios
 - 📝 **[bitadigitalhub.com](https://bitadigitalhub.com)**: free DP-700 study notes
 - 💬 **[Data Engineers Club](https://t.me/dataengineers_club)** on Telegram: a community for learning data engineering together
 - 🎓 A DP-900 practice test course on Udemy
